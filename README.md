@@ -2,7 +2,9 @@
 
 A real-time web application that visualizes your network traffic on an interactive world map. It captures outgoing and incoming packets, resolves their geolocation, and draws animated lines connecting your local machine to the destination servers.
 
-![IP Visualizer Demo](https://via.placeholder.com/800x400?text=Map+Preview+Here)
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 3](screenshots/Screenshot3.png)
 
 ## Features ✨
 
