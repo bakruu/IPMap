@@ -1,4 +1,4 @@
-# IP Traffic Visualizer 🌍
+# IPMap 🌍
 
 A real-time web application that visualizes your network traffic on an interactive world map. It captures outgoing and incoming packets, resolves their geolocation, and draws animated lines connecting your local machine to the destination servers.
 
@@ -23,8 +23,8 @@ A real-time web application that visualizes your network traffic on an interacti
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ip-visualizer.git
-    cd ip-visualizer
+    git clone https://github.com/bakruu/IPMap.git
+    cd IPMap
     ```
 
 2.  Install the required Python packages:
